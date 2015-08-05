@@ -2,7 +2,8 @@
 menu:
   home: /
   #categories: /categories
-  #about: /about
+  about: /about
+  members: /members
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -11,7 +12,7 @@ menu:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "HeXA,UNIST"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -37,7 +38,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:
